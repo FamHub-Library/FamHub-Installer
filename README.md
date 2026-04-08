@@ -1,6 +1,8 @@
 INSTALAÇÃO FAMHUB
 
-1. Copie a pasta "FamHub" para:
+1. Assista o vídeo do youtube https://youtu.be/UBABhQkXO1s
+
+1.1 Copie a pasta "FamHub" para:
 C:\FamHub\
 
 2. Copie o arquivo "FamHub.addin" para a pasta de add-ins do Revit.
