@@ -20,3 +20,11 @@ C:\Users\SEU_USUARIO\AppData\Roaming\Autodesk\Revit\Addins\2025\
 - token GitHub com acesso ao repositório privado
 
 6. Salve e use normalmente.
+
+## ⚠️ Aviso Importante
+
+O FamHub encontra-se em fase de testes e pode apresentar instabilidades, erros ou comportamentos inesperados.
+
+Este plugin foi desenvolvido e testado no Revit 2024, sendo esta a versão recomendada para melhor desempenho e compatibilidade.
+
+Ao baixar e utilizar o plugin, você declara estar ciente dessas condições.
