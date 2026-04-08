@@ -1,6 +1,6 @@
 INSTALAÇÃO FAMHUB
 
-1. Assista o vídeo do youtube https://www.youtube.com/watch?v=UBABhQkXO1s
+1. Assista o vídeo do youtube https://www.youtube.com/watch?v=UBABhQkXO1s 
 1.1 Copie a pasta "FamHub" para:
 C:\FamHub\
 
